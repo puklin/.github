@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://puklin.com">
-    <img src="https://raw.githubusercontent.com/puklin/.github/main/assets/icon.svg" width="80" />
+    <img src="https://raw.githubusercontent.com/puklin/.github/main/assets/logo.svg" height="40" />
   </a>
   <h2 align="center">Puklin</h2>
 </p>
